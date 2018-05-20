@@ -1,0 +1,67 @@
+<resources>
+    <!--app details-->
+    <string name="app_name">IQ Test</string>
+
+    <!--front page contents-->
+    <string name="heading">Thanks for checking out my quiz app!</string>
+    <string name="subheading">Have you been suspecting that you\'re a genius? Well, find out now!</string>
+    <string name="intro">Before we begin, a quick introduction is required.</string>
+    <!--input field-->
+    <string name="name_hint">Name</string>
+    <string name="start">Start</string>
+
+    <!--result contents-->
+    <string name="result_hint">Getting result...</string>
+    <string name="points">Points:</string>
+
+    <string name="genius">Wow! You\'re indeed a GENIUS</string>
+    <string name="average">Wow! You\'re awesome</string>
+    <string name="not_bad">You\'re not bad, You can do better</string>
+    <string name="needs_work">Needs work. You can do better</string>
+    <!--button-->
+    <string name="retake">Retake Quiz</string>
+
+    <!--questions contents-->
+    <string name="que">Questions</string>
+    <!--question 1 question and opions-->
+    <string name="que1">Which of these numbers are divisible by 4?</string>
+    <string name="que1_b">760, 345, 126</string>
+    <!--options-->
+    <string name="ans1">760</string>
+    <string name="ans2">None</string>
+    <string name="ans3">All</string>
+
+    <!--question 2 question and opions-->
+    <string name="que2">How many months has 28 days?</string>
+    <!--options-->
+    <string name="ans4">All months</string>
+    <string name="ans5">May</string>
+    <string name="ans6">February</string>
+
+    <!--question 3 question and opions-->
+    <string name="que3">The day after the day after tomorrow is four days before Monday. What day is it today?</string>
+    <!--options-->
+    <string name="ans7">Thursday</string>
+    <string name="ans8">Monday</string>
+    <string name="ans9">Friday</string>
+
+    <!--question 4 question and opions-->
+    <string name="que4">Forest is to tree as tree is to ?</string>
+    <!--options-->
+    <string name="ans10">Plant</string>
+    <string name="ans11">Leaf</string>
+    <string name="ans12">Branch</string>
+    <string name="ans13">Mangrove</string>
+
+    <!--question 5 question and opions-->
+    <string name="que5">6121135 is to flame as 21215120 is to ?</string>
+    <!--options-->
+    <string name="ans14">Castle</string>
+    <string name="ans15">Bloat</string>
+    <string name="ans16">Voice</string>
+    <!--submit button-->
+    <string name="submit">Submit Answers</string>
+
+    <!--copyright-->
+    <string name="copyright">Copyright 2018 - ShyCoder </string>
+</resources>
